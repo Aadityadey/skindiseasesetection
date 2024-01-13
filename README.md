@@ -1,0 +1,2 @@
+# skindiseasesetection
+major project 
